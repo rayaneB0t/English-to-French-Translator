@@ -32,5 +32,12 @@ In this project, we utilize a deep neural network to build an end-to-end machine
   - The model is used for translating English sentences into French.
   - A user interface is provided using Gradio, allowing users to input English text and receive the corresponding French translation.
 
-
-
+# Dependencies
+- numpy: A library for working with arrays in Python. It provides support for large, multi-dimensional arrays and matrices, along with mathematical functions.
+- tensorflow: An open-source machine learning framework developed by the Google Brain team. It provides a comprehensive ecosystem of tools, libraries, and community resources for researchers and developers.
+- keras: A high-level neural networks API, written in Python and capable of running on top of TensorFlow or other lower-level frameworks. It simplifies the process of building and training deep learning models.
+- scikit-learn: A machine learning library for Python that provides simple and efficient tools for data mining and data analysis. It includes various algorithms and utilities for tasks such as classification, regression, clustering, and more.
+- matplotlib: A 2D plotting library for Python that produces publication-quality figures. It can be used for creating static, animated, and interactive visualizations in Python.
+- pandas: A fast, powerful, and flexible open-source data analysis and manipulation tool built on top of the Python programming language. It provides data structures like DataFrame for efficient data manipulation.
+- jupyter: An open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text. It's great for interactive development and data analysis.
+- gradio: A Python library that allows you to rapidly create UIs for machine learning models. It simplifies the process of building interfaces for your models, making it easy to share and demonstrate your work.
