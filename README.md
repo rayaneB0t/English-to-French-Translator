@@ -1,4 +1,4 @@
-# English-French Translator using RNN
+# English-French Translator using RNN GRU
 
 This project aims to create a language translation application capable of translating English sentences into French. The core of the system is based on a deep neural network, specifically a Recurrent Neural Network (RNN) with Gated Recurrent Units (GRU) for sequence-to-sequence translation.
 
